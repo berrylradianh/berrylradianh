@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berryl Radian Hamesha</h1>
 <h3 align="center">A Passionate Software Engineer From Indonesia</h3>
 
-<img align="right" alt="coding" width = "400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berrylradianh&label=Profile%20views&color=0e75b6&style=flat" alt="berrylradianh" /> </p>
 
