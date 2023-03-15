@@ -15,19 +15,12 @@
 
 - 🤔 I’m looking for suggest for Professional Backend Engineer
 
+- 📄 Know about my experiences [https://intip.in/AOzc](https://intip.in/AOzc)
+
 - 💬 Ask me about anything
 
 - ⚡ Fun fact **I think I am good in teamwork**
 
-## Education
-
-#### 1. [Politeknik Negeri Malang](https://www.polinema.ac.id) | Bachelor of Engineering in Information Technology | Malang `2020-2024`
-#### 2. [Alterra Academy](https://academy.alterra.id) | Studi Independen Bersertifikat 100 Percent - Mastering Golang Programming | Online `Feb 2023 - Jun 2023`
- - In this program, you will learn about software engineering, starting from learning algorithms, writing code, and how to build software/applications. In this class, participants will specifically learn about the fundamentals of software engineering, building applications on the back-end using Go language, and performing deployment.
- - At the end of the course, each participant will take a final exam in the form of creating a final project and presenting it as a requirement for graduation. The presentation will be attended by each participant's mentor. The Final Project will involve participants from the Backend Engineer, Frontend Engineer, Mobile Engineer, UI/UX Designer, and Quality Engineer tracks, and they will work together to create a technology product based on a real case. This will help students gain experience working collaboratively, communicating across teams, and implementing the knowledge they have learned throughout the course.
-#### 3. [Harisenin.com](https://www.harisenin.com) | Bootcamp Full-stack Web Development | Online `Mar 2023 - Jul 2023`
- - In the Full-Stack Web Developer class, students will learn about Project Management (Agile & Scrum), HTML, CSS, Javascript, React JS, Node JS for Rest API, Database, VCS (Version Control Service), and Career Pursue in Tech. In this program, each participant will be guided by several mentors who teach using Zoom in live sessions three times a week. At the end of the program, each student will create a final project that will be presented and used to determine whether or not the student passes the program.
-#### 4. [SMA N 2 Wonogiri](http://sman2wonogiri.sch.id) | MIPA | Wonogiri `2016 - 2020`
 
 ## Connect with me
 <p align="left">
