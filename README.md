@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Berryl Radian Hamesha</h1>
 <h3 align="center">A Passionate Software Engineer From Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=berrylradianh&label=Profile%20views&color=0e75b6&style=flat" alt="berrylradianh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=berrylradianh" alt="berrylradianh" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/scriptianz" target="blank"><img src="https://img.shields.io/twitter/follow/scriptianz?logo=twitter&style=for-the-badge" alt="scriptianz" /></a> </p>
-
 - 🌱 I’m currently learning **Echo Golang, React JS, Node JS, Express JS**
 
 - 📫 How to reach me **berrylhamesha@gmail.com**
