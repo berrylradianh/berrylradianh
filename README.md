@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **berrylhamesha@gmail.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFb0_QYR0I/jGUciQq6WVcgI_CQaiJVuA/view?utm_content=DAFb0_QYR0I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://www.canva.com/design/DAFb0_QYR0I/jGUciQq6WVcgI_CQaiJVuA/view?utm_content=DAFb0_QYR0I&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [https://intip.in/AOzc](https://intip.in/AOzc)
 
 - ⚡ Fun fact **I think I am good in teamwork**
 
