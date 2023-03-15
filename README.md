@@ -5,15 +5,15 @@
 
 ## About Me
 
-- 🏫 I’m currently studying at **Politeknik Negeri Malang**
+- 🏫 I am currently studying at **Politeknik Negeri Malang**
 
-- 🌱 I’m currently learning **Golang and Javascript**
+- 🌱 I am currently learning **Golang and Javascript**
 
 - 📫 How to reach me **berrylhamesha@gmail.com**
 
-- 👯 I’m looking to collaborate as Backend Engineer
+- 👯 I am looking to collaborate as Backend Engineer
 
-- 🤔 I’m looking for suggest for Professional Backend Engineer
+- 🤔 I am looking for suggest for Professional Backend Engineer
 
 - 📄 Know about my experiences [https://intip.in/AOzc](https://intip.in/AOzc)
 
