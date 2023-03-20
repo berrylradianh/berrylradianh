@@ -5,7 +5,7 @@
 
 ## About Me
 
-- 🏫 I am Penultimate student at **Politeknik Negeri Malang**
+- 🏫 I am student at **Politeknik Negeri Malang**
 
 - 🌱 I am currently learning **Golang and Javascript**
 
