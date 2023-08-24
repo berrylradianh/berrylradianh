@@ -7,7 +7,7 @@
 
 - 🏫 I am student at **Politeknik Negeri Malang**
 
-- 🌱 I am currently learning **Golang and Javascript**
+- 🌱 I am currently learning **Node JS and Web3**
 
 - 📫 How to reach me **berrylhamesha@gmail.com**
 
@@ -15,7 +15,7 @@
 
 - 🤔 I am looking for suggest for **Professional Backend Engineer**
 
-- 📄 Know about my resume [https://intip.in/AOzc](https://intip.in/AOzc)
+- 📄 Know about my resume [https://intip.in/AUCG](https://intip.in/AUCG)
 
 - 💬 Ask me about anything
 
