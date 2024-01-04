@@ -15,8 +15,6 @@
 
 - 🤔 I am looking for suggest for **Professional Backend Engineer**
 
-- 📄 Know about my resume [https://intip.in/AUCG](https://intip.in/AUCG)
-
 - 💬 Ask me about anything
 
 - ⚡ Fun fact **I think I am good in teamwork**
