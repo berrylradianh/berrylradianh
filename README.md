@@ -1,40 +1,168 @@
 <h1 align="center">Hi 👋, I'm Berryl Radian Hamesha</h1>
-<h3 align="center">A Passionate Software Engineer From Indonesia</h3>
 
+<h3 align="center">
+Software Engineer | AI-Powered Products & High-Impact Systems | End-to-End Ownership
+</h3>
 
-
-## About Me
-
-- 🏫 I am student at **Politeknik Negeri Malang**
-
-- 🌱 I am currently learning **Node JS and Web3**
-
-- 📫 How to reach me **berrylhamesha@gmail.com**
-
-- 👯 I am looking to collaborate as **Backend Engineer**
-
-- 🤔 I am looking for suggest for **Professional Backend Engineer**
-
-- 💬 Ask me about anything
-
-- ⚡ Fun fact **I think I am good in teamwork**
-
-
-## Connect with me
-<p align="left">
-<a href="https://twitter.com/scriptianz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="scriptianz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/berryl radian hamesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="berryl radian hamesha" height="30" width="40" /></a>
-<a href="https://fb.com/berrylhamesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="berrylhamesha" height="30" width="40" /></a>
-<a href="https://instagram.com/berrylradian_02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="berrylradian_02" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/berrylhamesha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="berrylhamesha" height="30" width="40" /></a>
-<a href="https://discord.gg/2203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="2203" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/berryl-radian-hamesha-475936205/">
+    <img src="https://img.shields.io/badge/LinkedIn-Berryl%20Radian%20Hamesha-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://berrylradianh.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-berrylradianh.github.io-black?style=flat-square&logo=github" />
+  </a>
+  <a href="mailto:berrylhamesha@gmail.com">
+    <img src="https://img.shields.io/badge/Email-berrylhamesha%40gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
 </p>
 
-## Languages and Tools
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berrylradianh&show_icons=true&locale=en&layout=compact" alt="berrylradianh" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berrylradianh&show_icons=true&locale=en" alt="berrylradianh" /></p>
+I'm a Software Engineer focused on turning complex problems into reliable, scalable, and high-impact production systems.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berrylradianh&" alt="berrylradianh" /></p>
+I enjoy taking **end-to-end ownership** — from understanding the problem and designing the solution to implementation, optimization, deployment, and production maintenance.
+
+I'm technology-agnostic and comfortable adapting to whatever tools are best suited for the problem. I also use AI as an **engineering accelerator** to explore solutions, move faster, debug effectively, and improve productivity — while keeping strong engineering fundamentals and ownership at the core.
+
+- 🚀 Build and operate production-ready systems
+- 🧩 Turn ambiguous business problems into practical technical solutions
+- ⚡ Optimize performance, reliability, and data consistency
+- 🏗️ Modernize legacy systems and engineering foundations
+- 🤖 Build and contribute to AI-powered products
+- 🔄 Comfortable working across Backend, Frontend, APIs, Infrastructure, and Integrations
+- 📍 Based in Indonesia
+- 📫 Reach me at **berrylhamesha@gmail.com**
+
+---
+
+## 🚀 Selected Engineering Highlights
+
+### 📊 Ledger
+
+Independently designed and developed a full-featured accounting software platform with **end-to-end ownership** across application architecture, backend services, frontend development, APIs, integrations, and overall system design.
+
+### 🍱 Kulina
+
+Worked on production backend systems supporting customer, merchant, payment, logistics, operational dashboards, messaging, and scheduled workflows.
+
+- Modernized multiple production repositories and services
+- Migrated GORM from `jinzhu/gorm` to `gorm.io/gorm`
+- Replaced deprecated libraries and resolved compatibility issues
+- Improved system performance using concurrent processing
+- Optimized data flows across MySQL, Redis, and in-memory collections
+- Maintained real-time data consistency while preventing stale or delayed updates
+- Worked with APIs, NSQ message brokers, cron jobs, payment, logistics, bots, and shared libraries
+
+### 🤖 Mimo AI Interview
+
+Contributed to an AI-powered interview platform by developing backend capabilities, supporting system integrations, improving application performance, and working with AI-related workflows including vector retrieval using Pinecone.
+
+### 🎟️ Mimo Voucher Marketplace
+
+Contributed to backend services and APIs for a digital voucher marketplace, including system integrations, reliability improvements, and performance optimization.
+
+---
+
+## 🧠 How I Approach Engineering
+
+```text
+Complex Problem
+      ↓
+Understand the Business Context
+      ↓
+Design the System
+      ↓
+Build & Integrate
+      ↓
+Test & Optimize
+      ↓
+Ship to Production
+      ↓
+Observe, Improve & Scale
+```
+
+I particularly enjoy engineering problems involving:
+
+- Backend & distributed systems
+- Full-stack product development
+- API and third-party integrations
+- System architecture
+- Performance optimization
+- Concurrency and asynchronous processing
+- Caching and data consistency
+- System modernization and migrations
+- AI-powered applications
+- Developer productivity and AI-assisted engineering
+
+---
+
+## 🛠️ Engineering Toolbox
+
+> I don't define myself by a single tech stack — I prefer choosing the right tools for the problem.
+
+### Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=go,ts,js,python,php,nextjs,react,nodejs,laravel" />
+</p>
+
+### Data & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,gcp,linux,git,github" />
+</p>
+
+### Engineering Areas
+
+`REST APIs` · `Microservices` · `System Integration` · `Concurrency` · `Caching` · `Message Brokers` · `CI/CD` · `Testing` · `Performance Optimization` · `Database Design` · `Production Debugging`
+
+---
+
+## 🤖 AI-Assisted Engineering
+
+I use AI as a **force multiplier for software engineering** — not as a replacement for understanding the system.
+
+I actively work with:
+
+`Claude` · `OpenAI` · `GitHub Copilot` · `Gemini` · `AI Coding Agents`
+
+I use AI throughout engineering workflows for research, prototyping, implementation, debugging, code review, documentation, and exploring alternative solutions while keeping engineering judgment and code quality under my ownership.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/berryl-radian-hamesha-475936205/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+
+  <a href="mailto:berrylhamesha@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" height="30" width="40" />
+  </a>
+
+  <a href="https://berrylradianh.github.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="Portfolio" height="30" width="40" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=berrylradianh&show_icons=true&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berrylradianh&layout=compact&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berrylradianh&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <b>Build systems that are useful, reliable, scalable, and impactful.</b>
+</p>
